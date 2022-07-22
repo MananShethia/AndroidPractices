@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:id="@+id/main"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Transaction Detail"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="20dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Passbook"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingLeft="10dp"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pay"
+                android:layout_weight="1"
+                android:layout_marginHorizontal="20dp"
+                android:id="@+id/mainpay"
+                />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Accept"
+                android:layout_weight="1"
+                android:layout_marginHorizontal="20dp"
+                android:id="@+id/mainaccept"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

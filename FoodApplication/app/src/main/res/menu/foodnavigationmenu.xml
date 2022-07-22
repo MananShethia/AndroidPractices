@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Delivery"
+        android:id="@+id/deliveryFragment"
+        android:icon="@drawable/ic_delivery"
+        />
+    <item
+        android:title="Dining"
+        android:id="@+id/diningFragment"
+        android:icon="@drawable/ic_dining"
+        />
+    <item
+        android:title="Offers"
+        android:id="@+id/offersFragment"
+        android:icon="@drawable/ic_offer"
+        />
+</menu>

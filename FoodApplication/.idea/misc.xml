@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/activity_category.xml" value="0.67" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/activity_docollections.xml" value="0.2829059829059829" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/activity_home.xml" value="0.34375" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/activity_main.xml" value="0.34479166666666666" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/activity_mostview.xml" value="0.2753623188405797" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/content_home.xml" value="0.2875905797101449" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/fragment_delivery.xml" value="0.34479166666666666" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/fragment_dining.xml" value="0.34479166666666666" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/fragment_offers.xml" value="0.34479166666666666" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/row_data.xml" value="0.34375" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/row_docollections.xml" value="0.33" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/row_doplaces.xml" value="0.25" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/row_menudata.xml" value="0.34479166666666666" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/layout/row_optiondata.xml" value="0.2753623188405797" />
+        <entry key="..\:/androidProjectsDemo/FoodApplication/app/src/main/res/menu/foodnavigationmenu.xml" value="0.34375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
